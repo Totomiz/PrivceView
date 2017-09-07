@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="priceBar">
+        <attr name="price_up" format="integer" />
+        <attr name="price_down" format="integer" />
+    </declare-styleable>
+</resources>
